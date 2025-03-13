@@ -1,9 +1,0 @@
--i https://pypi.tuna.tsinghua.edu.cn/simple
-openpyxl
-pdfminer
-pdfminer.six
-psutil
-Requests
-html2text
-bs4
-pandas
