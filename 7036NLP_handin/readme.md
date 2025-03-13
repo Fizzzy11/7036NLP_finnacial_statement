@@ -6,13 +6,15 @@ After execution, the final sentiment analysis results will be output to **`finan
 
 Next, we use **`sentiment_and_return.ipynb`** to analyze the relationship between stock data and sentiment scores. The final analysis results and visualizations are saved within this file.
 
-___
+
+
 
 ## Who-Did-What
 
 https://connecthkuhk-my.sharepoint.com/:w:/g/personal/u3635665_connect_hku_hk/EfYJ95utQSxFt3gUEgNaYqEBHl89y9-XvSb78t_J1NPqCg?e=ohVUoD
 
-___
+
+
 
 ## Project Report
 
