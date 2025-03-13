@@ -2,5 +2,5 @@
 
 First, run the **`run_me_first.py`** file. This script will sequentially execute the following five Python scripts:  
 **`information_acquiring.py`**, **`download_annual_report.py`**, **`html2txt.py`**, **`split&stopwords.py`**, and **`train.py`**.
-
 After execution, the final sentiment analysis results will be output to **`financial_sentiment_result_final.csv`**.
+Next, we use `sentiment_and_return.ipynb` to analyze the relationship between stock data and sentiment scores. The final analysis results and visualizations are saved within this file.
